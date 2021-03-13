@@ -1,0 +1,64 @@
+     h3{
+          color:blueviolet;
+          background-color: rgb(27, 220, 20);
+          font-size: 50px;
+      }
+
+     /* .header{
+        color:chocolate;
+        background-color: darkblue;
+
+
+      }*/
+
+      /* .bootstrap{
+        color: darkorange;
+        background-color: deeppink;
+        font-size: 80px;
+
+
+      }*/
+
+      #head{
+        color:deeppink;
+        background-color: khaki;
+        text-transform: lowercase;
+        font-size: 50px;
+
+      }
+
+      #boot{
+        color:mediumturquoise;
+        background-color: orange;
+        font-size: 80px;
+        text-transform: uppercase;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+      }
+      #sd{
+        color: darkred;
+        background-color: lavenderblush;
+        font-size: 100px;
+
+      }
+
+      /*top,right,bottom,left*/
+      .Ba{
+        color:lightgreen;
+        padding-left: 30px;
+        border: 2px solid rgb(16, 12, 238);
+        margin: 100px 100px;
+        font-size: 50px;
+
+      }
+
+      .form{
+        width: 200px;
+        max-width: 500px;
+        margin:  0 auto;
+        background-color: chocolate;
+
+
+
+      }
