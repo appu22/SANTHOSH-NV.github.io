@@ -1,0 +1,82 @@
+.head-title{
+    text-align: center;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    font-size: 60px;
+    margin-top: 50px;
+   
+}
+
+
+.submit{
+color: white;
+text-transform: capitalize;
+text-align: center;
+margin: 0 auto;
+font-size: 50px;
+padding: 100px;
+}
+
+.container header{
+    
+    height: 250px;
+    max-width: 600px;
+    background-color:darkblue;
+    margin: 0 auto;
+    position: relative;
+    
+} 
+.icon{
+    color: ivory;
+    position: absolute;
+    top: 0;
+    font-size: 20px;
+    right: 30px;
+    margin-top: 20px;
+    
+
+}
+
+.body{
+    font-size: 20px;
+    text-align:left;
+    /* width: 100%; */
+  }
+
+  .form{
+   background-color:blanchedalmond;
+   max-width: 600px;
+     height: 300px;
+   text-transform: capitalize;
+   padding: 0;
+   margin: 0 auto;
+   text-align:center;
+   
+   
+
+     
+
+  }
+  .form-input{
+      background-color: blanchedalmond;
+      display: block;
+      text-align: center;  
+      text-transform: capitalize;
+      border: 0;
+      border-bottom:  2px solid black;
+      padding: 15px;
+      margin: 0 auto;
+
+  }
+  .submit1{
+text-align: center;
+padding: 30px;
+
+  }
+  .button{
+      background-color: blue;
+      border-radius: 20px;
+      color: cornsilk;
+      font-size: 30px;
+
+  }
