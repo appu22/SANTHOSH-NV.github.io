@@ -1,0 +1,82 @@
+body{
+    background-color: skyblue;
+}
+.container{
+width: 380px;
+margin: 150px auto 0;
+background-color:wheat;
+padding: 40px;
+box-sizing: border-box;
+height: auto;
+position: relative;
+
+}
+
+.title{
+    position: absolute;
+    top:-50px;
+    background-color:darkgoldenrod;
+    color:brown;
+    padding: 10px 20px;
+    font-weight: 700 ;
+    font-style: italic;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+}
+
+.title:before{
+    content: "";
+    position: absolute;
+    top:0;
+    left:0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid #000;
+    border-top: 5px solid transparent;
+    border-bottom: 5px solid #001;
+}
+
+.sub-container{
+    padding-top: 30px;
+    
+}
+
+
+.form{
+    width:100%;
+    margin-bottom: 10px;
+
+}
+
+.form .label{
+    text-transform: capitalize;
+    font-weight:800;
+}
+
+.form .input{
+    margin: 5px 0 0;
+    width:100%;
+    padding: 10px;
+    box-sizing: border-box;
+     border: 2px solid crimson;
+    color:crimson;
+    font-size: 12px;
+    outline: none;
+    border-radius: 3px ;
+}
+.btn{
+    width: 100%;
+    background-color:yellowgreen;
+    height: 40px;
+    text-align: center;
+    line-height: 20px;
+    text-transform: uppercase;
+    color:darkred;
+    font-weight: bold;
+    letter-spacing: 1px;
+    cursor: pointer;
+    margin-top: 20px ;
+    border-radius: 3px;
+}
+    
+
+
